@@ -25,3 +25,4 @@ echo "{
   \"semi\": true,
   \"trailingComma\": \"es5\"
 }" > .prettierrc
+
